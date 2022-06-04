@@ -1,0 +1,6 @@
+data/
+utils/result/
+
+*.pyc
+*.txt
+*.png
